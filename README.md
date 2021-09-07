@@ -10,7 +10,7 @@
 
 - #### 聊天機器人連結:
 
-  <img src="/Users/leyun/project/metro_linebot/metro_linebot (public)/chatbot_link.png" alt="chatbot_link" style="zoom:50%;" />
+  <img src="chatbot_link.png" alt="chatbot_link" style="zoom:50%;" />
 
 - #### 服務簡介
 
