@@ -1,0 +1,23 @@
+{
+  "name": "metro_linebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "15.11.x",
+    "npm": "7.21.x"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@line/bot-sdk": "^7.3.0",
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "jssha": "^3.2.0"
+  }
+}
